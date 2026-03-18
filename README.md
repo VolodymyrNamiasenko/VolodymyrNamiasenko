@@ -1,4 +1,4 @@
-# Volodymyr_Namiasenko
+# Volodymyr Namiasenko
 Bridging Business Analysis and Agentic AI
 I specialize in replacing manual industrial processes with process-aware AI systems. With a background as a CBAP-certified Business Analyst and over 7 years in MES, ERP, and SAP environments, I don't just build AI—I integrate it into the complex workflows of modern manufacturing.
 
