@@ -1,51 +1,44 @@
-# Bridging Business Analysis and Agentic AI
+I focus on applying AI in real-world industrial environments — integrating intelligent systems into complex, mission-critical workflows across manufacturing and enterprise platforms.
 
-I specialize in replacing manual industrial processes with **process-aware AI systems**.
+With 8+ years of experience in MES, ERP, and SAP delivery, and a background as a CBAP-certified Business Analyst, I work at the intersection of business, systems, and execution — translating process complexity into scalable, production-ready solutions.
 
-With a background as a **CBAP-certified Business Analyst** and more than **7 years** working in **MES**, **ERP**, and **SAP** environments, I don’t just build AI — I integrate it thoughtfully into the complex, mission-critical workflows of modern manufacturing.
+🚀 What I Build
 
-## 🚀 What I Build
+My GitHub projects explore how modern AI can support and enhance digital transformation initiatives:
 
-My GitHub repositories focus on **Industrial AI Intelligence** and include:
+Agentic Workflows
+LLM-based agents supporting process discovery, requirements engineering, and system blueprinting
+Operational RAG Systems
+Retrieval-Augmented Generation solutions designed for industrial use cases, with strong hallucination control and traceability for technical documentation and SOPs
+Domain-Aware Models
+Fine-tuned LLMs (LoRA) aligned with frameworks such as BABOK v3 and PMBOK 7, enabling structured reasoning in business and delivery contexts
+🛠️ Technical Stack & Context
+AI / ML
+RAG systems · LoRA fine-tuning · hallucination mitigation · applied ML for industrial data
+Systems & Integration
+SAP · ERP ecosystems · MES · BPMN · SQL · real-time data environments
+Automation & Tooling
+Python · n8n · agent frameworks
+Delivery Context
+Industry 4.0 · smart factory initiatives · multi-system integration
+📈 Focus
 
-- **Agentic Workflows**  
-  LLM-based agents designed for process discovery, requirements engineering, and blueprinting
+I’m particularly interested in how AI systems can be safely integrated into operational environments, supporting:
 
-- **Operational RAG**  
-  Retrieval-Augmented Generation systems with strict hallucination control — built specifically for technical documentation, SOPs, and manufacturing knowledge bases
+decision-making
+process optimization
+system interoperability
+intelligent automation
 
-- **Domain-Specific LLMs**  
-  Training and fine-tuning models (primarily LoRA) that become proficient in frameworks such as **BABOK v3** and **PMBOK 7**
+The goal is not just building models — but making them usable, reliable, and aligned with real business processes.
 
-## 🛠️ Technical Stack & Frameworks
-
-- **AI / ML**  
-  RAG systems · LoRA fine-tuning · Hallucination management · Computer vision
-
-- **Automation & Agentic Development**  
-  n8n · Python · Agent frameworks
-
-- **Enterprise Systems**  
-  SAP · ERP integration · Business Process Modeling (BPMN) · SQL
-
-- **Methodologies**  
-  BABOK v3 · PMBOK 7 · Industry 4.0 · Smart Factory initiatives
-
-## 📈 The Goal
-
-I help manufacturing organizations move toward **connected, intelligent, and data-driven operations**.
-
-The repositories here demonstrate the transition from traditional MES implementation projects → toward **autonomous manufacturing analytics** and **agentic process intelligence**.
-
-## 📫 Let's Connect
+📫 Let’s Connect
 
 If you're working on:
 
-- MES implementation  
-- Smart Manufacturing initiatives  
-- Enterprise AI automation  
-- Industrial process digitization  
+industrial AI applications
+MES / ERP transformation
+system integration with AI components
+reliable, production-grade RAG systems
 
-… I'm always open to discussing technical trade-offs, system architecture, integration patterns, or hallucination-safe RAG design in industrial contexts.
-
-Feel free to reach out!
+…I’m open to discussing architecture, trade-offs, and practical implementation challenges.
