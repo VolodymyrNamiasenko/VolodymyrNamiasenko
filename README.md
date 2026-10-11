@@ -1,50 +1,28 @@
-# About Me
+# Volodymyr Namiasenko
 
-I focus on applying AI in real-world industrial environments — integrating intelligent systems into complex, mission-critical workflows across manufacturing and enterprise platforms.
+I build applied AI tools for manufacturing and enterprise delivery, connecting business-process knowledge with practical software implementation.
 
-With 8+ years of experience in MES, ERP, and SAP delivery, and a background as a certified Business Analyst, I work at the intersection of business, systems, and execution — translating process complexity into scalable, production-ready solutions.
+My background spans MES, ERP and SAP delivery. My projects explore how document-grounded assistants, workflow automation and predictive models can support the people operating these systems.
 
----
+## Selected projects
 
-### 🚀 What I Build
+| Project | Purpose | Implementation |
+| --- | --- | --- |
+| [Pulse RAG Manager](https://github.com/VolodymyrNamiasenko/Customer-Support-Agent) | Document management and source-aware ERP support | FastAPI, React, Chroma, sentence embeddings, DSPy, Ollama |
+| [Meeting Manager](https://github.com/VolodymyrNamiasenko/Meeting-notes-agent) | Turn structured meeting notes into decisions, topics and tickets | Flask, SQLite, Notion, Jira and ClickUp integrations |
+| [PdM Prediction Service](https://github.com/VolodymyrNamiasenko/PdM-Prediction-Service) | Explore predictive maintenance from machine sensor streams | XGBoost, temporal feature engineering, FastAPI and a React dashboard |
 
-My GitHub projects explore how modern AI can support and enhance digital transformation initiatives:
+Additional private work includes support-agent evaluation, LoRA/QLoRA experiments, and delivery-tracking workflows. These repositories are applied prototypes; production readiness and performance must be demonstrated with representative tests and deployment evidence.
 
-* **Agentic Workflows:** LLM-based agents supporting process discovery, requirements engineering, and system blueprinting.
-* **Operational RAG Systems:** Retrieval-Augmented Generation solutions designed for industrial use cases, with strong hallucination control and traceability for technical documentation and SOPs.
-* **Domain-Aware Models:** Fine-tuned LLMs aligned with professional frameworks (BABOK v3, PMBOK 7), enabling structured reasoning in business and delivery contexts.
+## Skills demonstrated in the projects
 
----
+- **AI applications:** document ingestion, chunking, embeddings, retrieval, prompt configuration, source attribution and heuristic integration safeguards.
+- **Machine learning:** adapter-training experiments, temporal feature engineering, classification metrics and data-quality checks.
+- **Software and integrations:** Python APIs, React interfaces, SQLite persistence, and business-tool API clients.
+- **Product and delivery:** translating MES/ERP workflows into requirements, technical specifications and usable tools.
 
-### 🛠️ Technical Stack & Context
+## Engineering focus
 
-| Category | Technologies & Domains |
-| :--- | :--- |
-| **AI / ML** | RAG systems · LoRA fine-tuning · Hallucination mitigation · Applied ML for industrial data |
-| **Systems & Integration** | SAP · ERP ecosystems · MES · BPMN · SQL · Real-time data environments |
-| **Automation & Tooling** | Python · n8n · Agent frameworks |
-| **Delivery Context** | Industry 4.0 · Smart factory initiatives · Multi-system integration |
+I aim to make these systems understandable and measurable: clear setup instructions, independent evaluation data, regression tests, explicit limitations and evidence-based claims. I use CS230 study material as guidance for baselines, error analysis, data quality and responsible iteration—not as a claim of course certification.
 
----
-
-### 📈 Focus
-
-I’m particularly interested in how AI systems can be safely integrated into operational environments, supporting:
-* **Decentralized Decision-Making:** Providing real-time insights on the shop floor.
-* **Process Optimization:** Reducing friction in complex manufacturing workflows.
-* **System Interoperability:** Bridging the gap between legacy ERPs and modern AI agents.
-* **Intelligent Automation:** Transitioning from static scripts to adaptive, autonomous processes.
-
-The goal is not just building models — but making them usable, reliable, and aligned with real business processes.
-
----
-
-### 📫 Let’s Connect
-
-If you're working on:
-* Industrial AI applications
-* MES / ERP transformation
-* System integration with AI components
-* Reliable, production-grade RAG systems
-
-...I’m open to discussing architecture, trade-offs, and practical implementation challenges.
+I’m interested in industrial AI, source-grounded enterprise support, MES/ERP transformation and practical integration trade-offs.
